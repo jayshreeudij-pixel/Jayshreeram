@@ -11,3 +11,9 @@
         "expirydate": "31-12-2025",
         "Allowoffline": false
     },
+    {
+        "device_id": "397277e0ffc08706",
+        "key": "ram1",
+        "expirydate": "14-05-2026",
+        "Allowoffline": false
+    },
